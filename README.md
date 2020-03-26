@@ -1,4 +1,4 @@
-# svm_vs_decision_tree_vs_for-t_al-atoire
+# svm_vs_decision_tree_vs_for-t_aleatoire
 
 <h3>une comparaison entre les algorithmes de machine learning support vector machine et arbre de décision et forêt aléatoire.<h3>
   
